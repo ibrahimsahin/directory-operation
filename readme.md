@@ -1,4 +1,4 @@
-In this experiment you are expected to design and develop a utility program named “dirop” which makes 
+Expected to design and develop a utility program named “dirop” which makes 
 some operations  on directories. ‘dirop’gets  option  string  and  directory  path  as  parameters.  The  input 
 format is given below:
 dirop [OPTIONS] [ARGUMENT] [DIRECTORY PATH]
